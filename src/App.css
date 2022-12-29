@@ -1,0 +1,98 @@
+.ImageClass {
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  width: 50%; */
+}
+
+.CenterAlign {
+  text-align: center;
+  margin-top: 2em;
+  background-color: #1a1b21;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+}
+
+.NameClass {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 0em;
+}
+.TitleClass {
+  font-size: 12.8px;
+  font-weight: lighter;
+  color: #f3bf99;
+  margin-top: 0.2em;
+  margin-bottom: 0em;
+}
+.WebsiteClass {
+  font-size: 10.24px;
+  font-weight: lighter;
+  margin-top: 0.8em;
+}
+.ButtonDiv {
+  display: flex;
+  justify-content: center;
+}
+.EmailButton {
+  background-color: #ffffff;
+  min-width: 10em;
+  min-height: 3em;
+  margin-right: 0.8em;
+  border-radius: 8px;
+}
+.LinkedInButton {
+  background-color: #5093e2;
+  min-width: 10em;
+  min-height: 3em;
+  border-radius: 8px;
+}
+.LinkedInButtonImage {
+  vertical-align: middle;
+}
+button,
+a {
+  margin: 0.5em;
+}
+.EmailText {
+  font-size: 14;
+  font-weight: normal;
+}
+.LinkedInText {
+  font-size: 14;
+  color: #ffffff;
+  vertical-align: middle;
+}
+.AboutInterest {
+  width: 15em;
+  margin: auto;
+}
+.AboutHeading {
+  text-align: left;
+  margin-bottom: 0em;
+  font-size: 16px;
+}
+.AboutParagraph {
+  margin-top: 0em;
+  text-align: left;
+  font-size: 10.24px;
+}
+.InterestHeading {
+  text-align: left;
+  margin-bottom: 0em;
+  font-size: 16px;
+}
+.InterestParagraph {
+  margin-top: 0em;
+  text-align: left;
+  font-size: 10.24px;
+}
+footer {
+  background-color: #070707;
+  border-top: 1px solid black;
+}
+footer > img {
+  margin: 20px;
+}
